@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">✨ Olá, eu sou a Maria Eduarda ✨</h1>
 
 <p align="center">
