@@ -31,7 +31,6 @@ Tenho interesse em entender desde o funcionamento do hardware até a lógica por
 
 ## 🧠 Tecnologias
 
-<h3 align="center">🧠 Tecnologias</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -44,7 +43,7 @@ Tenho interesse em entender desde o funcionamento do hardware até a lógica por
 </p>
 
 
-###💡 Interesses Atuais
+### 💡 Interesses Atuais
 
 - Desenvolvimento Web Full Stack  
 - APIs com Node.js  
@@ -52,7 +51,7 @@ Tenho interesse em entender desde o funcionamento do hardware até a lógica por
 - Versionamento e colaboração com Git e GitHub  
 - Automação e lógica aplicada à robótica  
 - Projetos com impacto social e educacional
-
+  
 ## 📩 Contato
 
 Entre em contato comigo:
