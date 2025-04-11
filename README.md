@@ -31,7 +31,8 @@ Tenho interesse em entender desde o funcionamento do hardware até a lógica por
 
 ## 🧠 Tecnologias
 
-p align="center">
+<h3 align="center">🧠 Tecnologias</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -41,7 +42,9 @@ p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
-💡 Interesses Atuais
+
+
+###💡 Interesses Atuais
 
 - Desenvolvimento Web Full Stack  
 - APIs com Node.js  
