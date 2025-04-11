@@ -41,7 +41,7 @@ p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
-## 💡 Interesses Atuais
+💡 Interesses Atuais
 
 - Desenvolvimento Web Full Stack  
 - APIs com Node.js  
