@@ -7,7 +7,7 @@
 
 ## ✨ Quem sou eu?
 
-Sou estudante técnica em Desenvolvimento de Sistemas pelo SENAI CE, com foco em fundamentos sólidos de programação, estrutura de dados, banco de dados e desenvolvimento web. Iniciei minha trajetória com HTML e CSS, e atualmente estou expandindo minhas habilidades em linguagens como JavaScript, Python e C, além de atuar com Node.js e SQL.
+Sou técnica em Desenvolvimento de Sistemas pelo SENAI CE, com foco em fundamentos sólidos de programação, estrutura de dados, banco de dados e desenvolvimento web. Iniciei minha trajetória com HTML e CSS, e atualmente estou expandindo minhas habilidades em linguagens como JavaScript, Python e C, além de atuar com Node.js e SQL.
 
 Tenho interesse em entender desde o funcionamento do hardware até a lógica por trás das aplicações, buscando sempre aplicar conhecimento prático em projetos reais.
 
