@@ -2,7 +2,7 @@
 <h1 align="center"> Olá, eu sou a Maria Eduarda </h1>
 
 <p align="center">
-  Estudante técnica em Desenvolvimento de Sistemas | Foco em programação, banco de dados e tecnologia aplicada
+   técnica em Desenvolvimento de Sistemas | Foco em programação, banco de dados e tecnologia aplicada
 </p>
 
 ## ✨ Quem sou eu?
