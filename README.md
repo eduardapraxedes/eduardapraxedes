@@ -55,4 +55,4 @@ Tenho interesse em entender desde o funcionamento do hardware até a lógica por
 ## 📩 Contato
 
 Entre em contato comigo:
-- **Email:** mariapraxedes.work@gmail.com
+- **Email:** mariapraxedes.dev@gmail.com
